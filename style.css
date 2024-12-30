@@ -1,0 +1,10 @@
+.img1, .img2, .img3, .img4 {
+    height: 150px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.span1, .span2, .span3, .span4 {
+    font-size: 40px;
+    padding: 10px;
+}
